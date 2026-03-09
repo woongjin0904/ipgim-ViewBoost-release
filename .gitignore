@@ -1,0 +1,5 @@
+node_modules/
+vpk-out/
+dist/
+temp-deploy/
+.env
